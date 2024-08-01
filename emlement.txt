@@ -1,0 +1,6 @@
+AOS animation 
+Link :https://egghead.io/blog/how-to-use-the-animate-on-scroll-aos-library-in-vue
+Navbar Teplate 
+link:https://www.creative-tim.com/learning-lab/tailwind-starter-kit/documentation/react/navbars
+Icon for vue ez use
+Link : https://www.tailwindtoolbox.com/icons
